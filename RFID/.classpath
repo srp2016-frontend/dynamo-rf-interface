@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/ThingMagic"/>
-	<classpathentry kind="lib" path="U:/ThingMagic/ltkjava-1.0.0.6.jar"/>
-	<classpathentry kind="lib" path="U:/ThingMagic/ltkthingmagic.jar"/>
-	<classpathentry kind="lib" path="U:/ThingMagic/mercuryapi.jar"/>
-	<classpathentry kind="lib" path="U:/ThingMagic/mysql-connector-java-5.1.39-bin.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ThingMagic"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/ThingMagic/ltkjava-1.0.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/ThingMagic/ltkthingmagic.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/ThingMagic/mercuryapi.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/ThingMagic/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/home/ryan/git/dynamo-rf-interface/libs/poi-3.14/poi-scratchpad-3.14-20160307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
